@@ -1,3 +1,5 @@
+<h1>KOULU PROJEKTI</h1>
+
 Matopelissä liikut matona 2d ruudulla. Pelissä liikutat matona nuoli näppäimillä ja tarkoituksesi on kerätä ruokaa kasvaaksesi.
 Jos törmäät seinään eli ruudun reunaan, kuolet. Kuolet myös jos törmäät itseesi. Voitat pelin jos saat täytettyä ruudun madolla.
 
